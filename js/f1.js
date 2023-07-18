@@ -18,7 +18,7 @@ function submitForm(e) {
 		console.log(userData);
 	}
 	else{
-		alert("Oka bittasi qolib ketdi bir qarang qani")
+		alert("Azamat bittasi qolib ketdi bir qarang qani")
 	}
 }
 
